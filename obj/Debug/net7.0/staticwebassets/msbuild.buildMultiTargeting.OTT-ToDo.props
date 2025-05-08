@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OTT-ToDo.props" />
+</Project>
